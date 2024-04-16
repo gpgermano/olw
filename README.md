@@ -65,12 +65,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+## Introdução
+<p>Dashboards inteligentes com Laravel, Livewire e OpenAI</p>
+
 ## COMANDOS INICIALIZAÇÂO 
 git clone https://github.com/gpgermano/olw.git
 
 ## Subir container docker
-./vendor/bin/sail up -d
-./vendor/bin/sail artisan migrate
-./vendor/bin/sail artisan db:seed
+./vendor/bin/sail up -d <br>
+./vendor/bin/sail artisan migrate <br>
+./vendor/bin/sail artisan db:seed <br>
 
 
